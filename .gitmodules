@@ -1,0 +1,9 @@
+[submodule "travel_suggestion_system_data"]
+	path = travel_suggestion_system_data
+	url = https://github.com/abdussamedkilic/travel-suggestion-system-data
+[submodule "travel_suggestion_system_backend"]
+	path = travel_suggestion_system_backend
+	url = https://github.com/abdussamedkilic/travel-suggestion-system-backend
+[submodule "travel_suggestion_system_frontend"]
+	path = travel_suggestion_system_frontend
+	url = https://github.com/abdussamedkilic/travel-suggestion-system-frontend
