@@ -1,7 +1,6 @@
 # graduation-project
-Travel Suggestion System
+> Travel Suggestion System
 
-This is Our Graduation Project 
 
 ### Team member : 
 > 1. Orhun Mert Bozkurt - 180201159
